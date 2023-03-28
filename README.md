@@ -1,5 +1,4 @@
 
-[![MasterHead](https://www.shutterstock.com/image-vector/concept-web-design-development-creative-260nw-1310674091.jpg)]
 <h1 align="center">Hi 👋, I'm kaveriangadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
