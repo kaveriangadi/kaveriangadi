@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/designers-working-desing-web-page-web-design-user-interface-ui-user-experience-ux-content-organization-web-126558098.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/designers-working-desing-web-page-web-design-user-interface-ui-user-experience-ux-content-organization-web-126558098.jpg)
 <h1 align="center">Hi 👋, I'm kaveriangadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaveriangadi&" alt="kaveriangadi" /></p>
 
 
-[![MasterHead](https://thumbs.dreamstime.com/b/designers-working-desing-web-page-web-design-user-interface-ui-user-experience-ux-content-organization-web-126558098.jpg)]
+![MasterHead](https://thumbs.dreamstime.com/b/designers-working-desing-web-page-web-design-user-interface-ui-user-experience-ux-content-organization-web-126558098.jpg)
 <h1 align="center">Hi 👋, I'm kaveriangadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
